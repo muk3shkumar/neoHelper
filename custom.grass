@@ -23,3 +23,17 @@ node.Person {
   text-color-internal: #FFFFFF;
   caption: '{name}';
 }
+
+node.Organization {
+  color: #FF9300;
+  border-color: #FFFFFF;
+  text-color-internal: #000000;
+  caption: '{name}';
+}
+
+node.Address {
+  color: #008F00;
+  border-color: #FFFFFF;
+  text-color-internal: #FFFFFF;
+  caption: '{name}';
+}
